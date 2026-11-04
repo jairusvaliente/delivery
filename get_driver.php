@@ -2,7 +2,7 @@
 // get_driver.php — Fetch driver_assignments row by destination, then get driver from acct
 header('Content-Type: application/json');
 
-$db_host = 'localhost';
+$db_host = '162.159.24.67';
 $db_user = 'root';
 $db_pass = '';
 $db_name = 'uam_logistics';
