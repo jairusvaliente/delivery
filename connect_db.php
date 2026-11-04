@@ -3,7 +3,7 @@
    connect_db.php - database connection
    ====================================================================== */
 
-$servername = "localhost";
+$servername = "162.159.24.67";
 $username   = "ecamonit_ECAMonitoring";
 $password   = "awsdrftg1432!@#";
 $database   = "ecamonit_delivery";
